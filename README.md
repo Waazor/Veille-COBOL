@@ -83,7 +83,7 @@ Voici un Hello World en COBOL que j'ai pu faire sur [Exercism](https://exercism.
 
 | n° | Lien | Justification |
 | --------- | ------- | -------- |
-| 1 | [Wikipédia] (https://en.wikipedia.org/wiki/COBOL) | Avoir des informations basiques sur le langage pour bien le comprendre (version anglaise car plus complète) |
+| 1 | [Wikipédia](https://en.wikipedia.org/wiki/COBOL) | Avoir des informations basiques sur le langage pour bien le comprendre (version anglaise car plus complète) |
 | 2 | [YTB : Underscore_ Interview COBOListe](https://www.youtube.com/watch?v=R2B2QetWGag) | Podcast de Micode interviewant un "Jeune" expert de COBOL, ils parlent du COBOL en général (fonctionnement, début) + commentaire donnant leurs expériences |
 | 3 | [IBM : début ](https://www.ibm.com/fr-fr/topics/cobol) | IBM étant le fournisseur COBOL le plus présent sur le marché, leur définition/explication de COBOL est très pertinente |
 | 4 | [YTB : PODCAST COBOLISTE](https://www.youtube.com/watch?v=MaEneyo6bRY) | Podcast entre un expert et un néophyte COBOL |
@@ -92,9 +92,9 @@ Voici un Hello World en COBOL que j'ai pu faire sur [Exercism](https://exercism.
 
 | n° | Lien | Justification |
 | --------- | ------- | -------- |
-| 1 | [Cours COBOL CSIS] (https://www.csis.ul.ie/cobol/) | Cours en anglais COBOL principalement théorique (site datant un peu mais utilisable) |
+| 1 | [Cours COBOL CSIS](https://www.csis.ul.ie/cobol/) | Cours en anglais COBOL principalement théorique (site datant un peu mais utilisable) |
 | 2 | [Curs COBOL Mainframes tech help](https://www.mainframestechhelp.com/tutorials/cobol/introduction.htm) | Cours COBOL hyper complet basé sur la théorie |
-| 3 | [Exercism] (https://exercism.org/tracks/cobol) | Site de cours de langage de programmation pratique (je l'utilise aussi pour d'autres langages) |
+| 3 | [Exercism](https://exercism.org/tracks/cobol) | Site de cours de langage de programmation pratique (je l'utilise aussi pour d'autres langages) |
 
 
 ## Communautés :
@@ -110,7 +110,7 @@ Les COBOListes étant une communauté plus vieille et moins "geek" que les autre
 | 5 | [LinkedIn communauté : Mainframe](https://www.linkedin.com/groups/910927/) | Communauté professionnelle contenant une bonne quantité de COBOLists |
 | 6 | [Forum GnuCOBOL](https://sourceforge.net/p/gnucobol/discussion/) | Forum de développement pour COBOL lié à [GnuCOBOL](https://gnucobol.sourceforge.io/) |
 | 7 | [Forum Hacker news COBOL](https://hn.algolia.com/?query=cobol&sort=byDate&type=all) | Forum avec comme topic COBOL un peu fermé cherchant à parler principalement avec des experts |
-| 8 | [Reddit r/mainframe] (https://www.reddit.com/r/mainframe/) | COBOL utilisant les mainframes comme système/architecture, il est aussi intéressant de regarder régulièrement ce qu'il se dit à ce sujet |
+| 8 | [Reddit r/mainframe](https://www.reddit.com/r/mainframe/) | COBOL utilisant les mainframes comme système/architecture, il est aussi intéressant de regarder régulièrement ce qu'il se dit à ce sujet |
 | 9 | [Discord System Z Enthusiasts](https://discord.gg/sze) | Seul discord sérieux que j'ai pu trouver parlant un minimum de COBOL |
 
 ## Outils de dev COBOL :
@@ -135,5 +135,5 @@ Les COBOListes étant une communauté plus vieille et moins "geek" que les autre
 | 2 | [Article COBOL: CloudFlare](https://blog.cloudflare.com/cloudflare-workers-now-support-cobol/) | Explique que, après une demande du New Jersey, le cobol est compilable via leurs serveurs |
 | 3 | [Zeste de savoir](https://zestedesavoir.com/tutoriels/685/la-programmation-cobol/) | Site permettant d'avoir des bases sur COBOL, pas spécalisé COBOOL donc peut manquer d'infos |
 | 4 | [IBM topic COBOL](https://www.ibm.com/search?lang=fr&cc=fr&q=cobol) | Encore le site IBM, mais avec tous leurs liens COBOL |
-| 5 | [la communauté du COBOL] (https://www.lacommunauteducobol.com/cobol/) | Site plutôt complet lié au COBOL, il y a aussi une page FORUM mais pas hyper actif, il sert donc principalement pour de l'informatif |
+| 5 | [la communauté du COBOL](https://www.lacommunauteducobol.com/cobol/) | Site plutôt complet lié au COBOL, il y a aussi une page FORUM mais pas hyper actif, il sert donc principalement pour de l'informatif |
 | 6 | [YTBC : FromZeroToCOBOL](https://www.youtube.com/@fromzerotocobol6023) | Chaîne YouTube hyper complète sur le COBOL en général, principalement pour ses cours et explications |
